@@ -1,5 +1,5 @@
 body{
-    width: 100%;
+    width: 100vw;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -54,12 +54,6 @@ h2{
 .sitemap a{
     color: inherit;
     text-decoration: none;
-}
-
-.adout{
-    width: 100%;
-    height: 300px;
-    display: flex;
 }
 
 .profilebox{
